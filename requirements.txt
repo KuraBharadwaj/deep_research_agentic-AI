@@ -1,0 +1,7 @@
+openai-agents
+openai
+asyncio
+gradio
+dotenv
+requests
+pydantic
